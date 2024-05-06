@@ -70,7 +70,9 @@ calapp.html
 </body>
 </html>
 
+
 calculator.css
+
 .calculator 
 {
     width: 220px;
@@ -105,7 +107,9 @@ input[type="text"]
     border-radius: 15px;
 }
 
+
 calculator.js
+
 function addToDisplay(value) 
 {
     document.getElementById('display').value += value;
